@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AksentUe
-- 👀 I’m interested in learning C#, C++
-- 🌱 I’m currently learning CS50
+- 👀 I’m interested in learning Java Script
+- 🌱 I’m currently learning modern Java Scirpt
 - 💞️ I’m looking to collaborate on any project were coding is included. I know a bit of Java, HTML5, CSS3, JS -basics
 - 📫 How to reach me - via email - aksentue@yahoo.com or aksentijevic.ivan@gmail.com or skype aksent_srb or 
  linkedin - Aksentijević Ivan - https://www.linkedin.com/in/ivan-aksentijevic-62782531/
